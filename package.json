@@ -1,0 +1,12 @@
+{
+  "name": "vmfstuff",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "csv-generate": "^3.4.0",
+    "csv-writer": "^1.6.0",
+    "export-to-csv": "^0.2.1",
+    "vmfparser": "^1.1.1"
+  }
+}
